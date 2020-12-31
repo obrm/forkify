@@ -108,7 +108,6 @@ const init = () => {
   recipeView.addHandlerAddBookmark(controlAddBookmark);
   searchView.addHandlerSearch(controlSearchResults);
   paginationView.addHandlerPageClick(controlPagination);
-  console.log('Welcome!');
   // addRecipeView.addHandlerUpload(controlAddRecipe);
 };
 
